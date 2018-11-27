@@ -1,50 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+@import url('https://fonts.googleapis.com/css?family=BioRhyme');
+
 body{
-    background-color: #dedff5 !important;
+    background-color: white !important;
+    
 }
-
+#navbar-example2{
+    background-color: #fad888 !important;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+}
+.navbar-brand{
+    font-size: 25px;
+}
+#About{
+    font-family: 'Amatic SC', cursive;
+}
 .card{
-    background-color: #f5d6d6 !important;
+    background-color: #f8d9e9 !important;
 }
-.navbar{
-    background-color: #f5d6d6 !important;
+.card-body{
+    font-family: 'BioRhyme', serif;
 }
+
 #Projects{
-    margin-left: 145px;
+    margin-top: 10px;
+    margin-left: 160px;
     width: 690px !important;
+    font-family: 'Amatic SC', cursive;
+}
+img{
+    width: 210px;
+    height: 210px;
 }
 
-
-
-
-
-
-
-
-
-
-
+.p1, .p2, .p3, .p4, .p5, .p6{
+    display: flex;
+    justify-content: center;
+}
 
 .container{
-    margin-top: 100px;
+    margin-top: 50px;
 }
 .projects{
     height: 300px;
-}
-.p1{
-    background-color: aqua;
-}
-.p2{
-    background-color: bisque;
-}
-.p3{
-    background-color: blue;
-}
-.p4{
-    background-color: blueviolet;
-}
-.p5{
-    background-color: brown;
-}
-.p6{
-    background-color: orange;
 }
