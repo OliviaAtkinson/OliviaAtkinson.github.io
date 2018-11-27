@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
-@import url('https://fonts.googleapis.com/css?family=BioRhyme');
-
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 body{
     background-color: white !important;
     
@@ -20,7 +19,7 @@ body{
     background-color: #f8d9e9 !important;
 }
 .card-body{
-    font-family: 'BioRhyme', serif;
+    font-family: 'Oswald', sans-serif;
 }
 
 #Projects{
